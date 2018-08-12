@@ -1,0 +1,15 @@
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\Note - TodoList.exe.config
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\Note - TodoList.exe
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\Note - TodoList.pdb
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\MetroFramework.Design.dll
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\MetroFramework.dll
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\MetroFramework.Fonts.dll
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\obj\Debug\Note - TodoList.csprojResolveAssemblyReference.cache
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\obj\Debug\Note___TodoList.NoteForm.resources
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\obj\Debug\Note___TodoList.Properties.Resources.resources
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\obj\Debug\Note - TodoList.csproj.GenerateResource.Cache
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\obj\Debug\Note - TodoList.exe
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\obj\Debug\Note - TodoList.pdb
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\MySql.Data.dll
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\Google.Protobuf.dll
+c:\users\linar\documents\visual studio 2015\Projects\Note - TodoList\Note - TodoList\bin\Debug\MySql.Data.xml
